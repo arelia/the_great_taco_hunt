@@ -11,5 +11,8 @@ This section focuses on Taco avaliable south of Madison [really, Roosevelt] to t
 3. Palenque. Pollos a la brasa [aka a whole grilled chicken for around 10$]. One chicken, rice, beans, et cetra. Smokey as good good barbaque. [55th and California]
 4. Taqueria Atotoniloco. The offshoot of the best tortilleria in the city (sorry, el Milargro fans), has a couple locations. Best is the one near 47 & Ashland (aka, a block from the tortilleria). Good variety, Al Pastor (really, adobada) is great. Get the fresh juices and a pack of tortillas to go. 
 5. La Cesina. 47th and roughly ashland. Get the Cesnia (dried cured beef). 
+<<<<<<< HEAD
 6. Glorias. 18th Street near musuem. Good al pastor and chorizo.
 7. Nuevo Leon. 18th Street. The BEST chorizo ever.
+=======
+>>>>>>> b5d2f7c610faf6734e07dab9d118c24b844b6f90
